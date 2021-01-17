@@ -1,0 +1,9 @@
+<application>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://D:/Go/bin" />
+      </list>
+    </option>
+  </component>
+</application>
