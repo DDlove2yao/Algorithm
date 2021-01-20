@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="DDlove2yao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/moxi624/mogu_blog_v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\Birmingham\Course\Software Workshop1" />
   </component>
 </application>
